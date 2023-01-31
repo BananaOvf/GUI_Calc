@@ -35,6 +35,8 @@
             this.label3 = new System.Windows.Forms.Label();
             this.button_result = new System.Windows.Forms.Button();
             this.label_sum = new System.Windows.Forms.Label();
+            this.label_sub = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // textBox_Num1
@@ -61,7 +63,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label1.Location = new System.Drawing.Point(31, 155);
+            this.label1.Location = new System.Drawing.Point(37, 143);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(86, 25);
             this.label1.TabIndex = 2;
@@ -90,7 +92,7 @@
             // button_result
             // 
             this.button_result.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.button_result.Location = new System.Drawing.Point(108, 241);
+            this.button_result.Location = new System.Drawing.Point(108, 245);
             this.button_result.Name = "button_result";
             this.button_result.Size = new System.Drawing.Size(268, 55);
             this.button_result.TabIndex = 5;
@@ -102,17 +104,39 @@
             // 
             this.label_sum.AutoSize = true;
             this.label_sum.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label_sum.Location = new System.Drawing.Point(123, 155);
+            this.label_sum.Location = new System.Drawing.Point(123, 143);
             this.label_sum.Name = "label_sum";
             this.label_sum.Size = new System.Drawing.Size(24, 25);
             this.label_sum.TabIndex = 6;
             this.label_sum.Text = "0";
+            // 
+            // label_sub
+            // 
+            this.label_sub.AutoSize = true;
+            this.label_sub.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label_sub.Location = new System.Drawing.Point(123, 184);
+            this.label_sub.Name = "label_sub";
+            this.label_sub.Size = new System.Drawing.Size(24, 25);
+            this.label_sub.TabIndex = 8;
+            this.label_sub.Text = "0";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label5.Location = new System.Drawing.Point(12, 184);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(111, 25);
+            this.label5.TabIndex = 7;
+            this.label5.Text = "Разность:";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(491, 325);
+            this.Controls.Add(this.label_sub);
+            this.Controls.Add(this.label5);
             this.Controls.Add(this.label_sum);
             this.Controls.Add(this.button_result);
             this.Controls.Add(this.label3);
@@ -136,6 +160,8 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button button_result;
         private System.Windows.Forms.Label label_sum;
+        private System.Windows.Forms.Label label_sub;
+        private System.Windows.Forms.Label label5;
     }
 }
 

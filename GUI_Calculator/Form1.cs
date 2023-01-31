@@ -25,6 +25,7 @@ namespace GUI_Calculator
             int.TryParse(textBox_Num2.Text, out num2);
 
             label_sum.Text = (num1 + num2).ToString(); // Сложение
+            label_sub.Text = (num1 - num2).ToString(); // Разность
         }
     }
 }
