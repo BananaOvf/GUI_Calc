@@ -38,7 +38,9 @@
             this.label_sub = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label_mul = new System.Windows.Forms.Label();
+            this.label_div = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // textBox_Num1
@@ -142,22 +144,44 @@
             this.label_mul.TabIndex = 10;
             this.label_mul.Text = "0";
             // 
+            // label_div
+            // 
+            this.label_div.AutoSize = true;
+            this.label_div.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label_div.Location = new System.Drawing.Point(376, 184);
+            this.label_div.Name = "label_div";
+            this.label_div.Size = new System.Drawing.Size(24, 25);
+            this.label_div.TabIndex = 10;
+            this.label_div.Text = "0";
+            // 
             // label6
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label6.Location = new System.Drawing.Point(205, 143);
+            this.label6.Location = new System.Drawing.Point(205, 142);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(163, 25);
             this.label6.TabIndex = 9;
             this.label6.Text = "Произведение:";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label4.Location = new System.Drawing.Point(267, 184);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(101, 25);
+            this.label4.TabIndex = 11;
+            this.label4.Text = "Частное:";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(491, 325);
+            this.Controls.Add(this.label4);
             this.Controls.Add(this.label_mul);
+            this.Controls.Add(this.label_div);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label_sub);
             this.Controls.Add(this.label5);
@@ -187,7 +211,9 @@
         private System.Windows.Forms.Label label_sub;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label_mul;
+        private System.Windows.Forms.Label label_div;
         private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Label label4;
     }
 }
 
