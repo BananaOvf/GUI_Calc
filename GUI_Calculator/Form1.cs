@@ -19,10 +19,10 @@ namespace GUI_Calculator
 
         private void button_result_Click(object sender, EventArgs e)
         {
-            int num1, num2;
+            double num1, num2;
             
-            int.TryParse(textBox_Num1.Text, out num1);
-            int.TryParse(textBox_Num2.Text, out num2);
+            double.TryParse(textBox_Num1.Text, out num1);
+            double.TryParse(textBox_Num2.Text, out num2);
 
             label_sum.Text = (num1 + num2).ToString(); // Сложение
             label_sub.Text = (num1 - num2).ToString(); // Разность

@@ -9,3 +9,14 @@ D:\Программирование\c#\GUI_Calculator\GUI_Calculator\obj\Debug\G
 D:\Программирование\c#\GUI_Calculator\GUI_Calculator\obj\Debug\GUI_Calculator.csproj.CoreCompileInputs.cache
 D:\Программирование\c#\GUI_Calculator\GUI_Calculator\obj\Debug\GUI_Calculator.exe
 D:\Программирование\c#\GUI_Calculator\GUI_Calculator\obj\Debug\GUI_Calculator.pdb
+C:\Users\arsen\OneDrive\Рабочий стол\Testing\GUI_Calc\GUI_Calculator\bin\Debug\GUI_Calculator.exe.config
+C:\Users\arsen\OneDrive\Рабочий стол\Testing\GUI_Calc\GUI_Calculator\bin\Debug\GUI_Calculator.exe
+C:\Users\arsen\OneDrive\Рабочий стол\Testing\GUI_Calc\GUI_Calculator\bin\Debug\GUI_Calculator.pdb
+C:\Users\arsen\OneDrive\Рабочий стол\Testing\GUI_Calc\GUI_Calculator\obj\Debug\GUI_Calculator.csproj.AssemblyReference.cache
+C:\Users\arsen\OneDrive\Рабочий стол\Testing\GUI_Calc\GUI_Calculator\obj\Debug\GUI_Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\arsen\OneDrive\Рабочий стол\Testing\GUI_Calc\GUI_Calculator\obj\Debug\GUI_Calculator.Form1.resources
+C:\Users\arsen\OneDrive\Рабочий стол\Testing\GUI_Calc\GUI_Calculator\obj\Debug\GUI_Calculator.Properties.Resources.resources
+C:\Users\arsen\OneDrive\Рабочий стол\Testing\GUI_Calc\GUI_Calculator\obj\Debug\GUI_Calculator.csproj.GenerateResource.cache
+C:\Users\arsen\OneDrive\Рабочий стол\Testing\GUI_Calc\GUI_Calculator\obj\Debug\GUI_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\arsen\OneDrive\Рабочий стол\Testing\GUI_Calc\GUI_Calculator\obj\Debug\GUI_Calculator.exe
+C:\Users\arsen\OneDrive\Рабочий стол\Testing\GUI_Calc\GUI_Calculator\obj\Debug\GUI_Calculator.pdb
