@@ -1,0 +1,11 @@
+D:\Программирование\c#\GUI_Calculator\GUI_Calculator\bin\Debug\GUI_Calculator.exe.config
+D:\Программирование\c#\GUI_Calculator\GUI_Calculator\bin\Debug\GUI_Calculator.exe
+D:\Программирование\c#\GUI_Calculator\GUI_Calculator\bin\Debug\GUI_Calculator.pdb
+D:\Программирование\c#\GUI_Calculator\GUI_Calculator\obj\Debug\GUI_Calculator.csproj.AssemblyReference.cache
+D:\Программирование\c#\GUI_Calculator\GUI_Calculator\obj\Debug\GUI_Calculator.csproj.SuggestedBindingRedirects.cache
+D:\Программирование\c#\GUI_Calculator\GUI_Calculator\obj\Debug\GUI_Calculator.Form1.resources
+D:\Программирование\c#\GUI_Calculator\GUI_Calculator\obj\Debug\GUI_Calculator.Properties.Resources.resources
+D:\Программирование\c#\GUI_Calculator\GUI_Calculator\obj\Debug\GUI_Calculator.csproj.GenerateResource.cache
+D:\Программирование\c#\GUI_Calculator\GUI_Calculator\obj\Debug\GUI_Calculator.csproj.CoreCompileInputs.cache
+D:\Программирование\c#\GUI_Calculator\GUI_Calculator\obj\Debug\GUI_Calculator.exe
+D:\Программирование\c#\GUI_Calculator\GUI_Calculator\obj\Debug\GUI_Calculator.pdb
