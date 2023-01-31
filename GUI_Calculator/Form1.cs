@@ -26,6 +26,7 @@ namespace GUI_Calculator
 
             label_sum.Text = (num1 + num2).ToString(); // Сложение
             label_sub.Text = (num1 - num2).ToString(); // Разность
+            label_mul.Text = (num1 * num2).ToString(); // Произведение
         }
     }
 }
